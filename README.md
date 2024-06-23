@@ -11,8 +11,10 @@ Menangkap Worm: Menangkap worm jika tersedia.
 Menyelesaikan Tugas: Otomatis menyelesaikan tugas-tugas yang tersedia.
 
 Instalasi:
-Sebelum menggunakan script ini, pastikan untuk menginstal dependencies berikut menggunakan pip:
+install python
+git clone https://github.com/JerryM28/BOT-Seed
 pip install requests colorama
+
 
 Penggunaan:
 Pastikan telah memuat token-token yang diperlukan ke dalam file query.txt.
@@ -20,6 +22,8 @@ Jalankan script main.py.
 Bot akan menjalankan operasi-operasi yang diatur berdasarkan kondisi yang telah ditentukan.
 
 Catatan:
+edit file query dan isi dengan query kalian masing-masing
+untuk multi akun paste query di baris selanjutnya
 Script ini hanya untuk tujuan demonstrasi dan penggunaan pribadi.
 Pastikan untuk tidak membagikan token-token rahasia Anda.
 
