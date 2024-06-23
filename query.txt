@@ -1,1 +1,2 @@
-isi query
+isi query1
+isi query2
